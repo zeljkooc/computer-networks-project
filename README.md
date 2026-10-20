@@ -4,6 +4,10 @@ A comprehensive implementation and configuration of a complex hybrid computer ne
 
 ---
 
+![Configuration](./conf.png)
+
+---
+
 ## 🌐 Network Architecture & Topology
 
 The network is split into two distinct routing domains connected via a border router:
